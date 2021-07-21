@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FilmList>
+    <films>
+        <id>1</id>
+        <title>ACCIDENTAL HERO</title>
+        <year>1992</year>
+        <director>STEPHEN FREARS</director>
+        <stars>DUSTIN HOFFMAN, GEENA DAVIS</stars>
+        <review>Satirical comedy about the value of fame, with Hoffman as a down-and-out who rescues survivors from a plane crash, then leaves the scene. When the TV starts to send out appeals to find The Angel of Flight 104  an impostor turns up in the form of Andy Garcia. Hes hailed as a hero while Hoffmans luck hits rock bottom.</review>
+    </films>
+</FilmList>
